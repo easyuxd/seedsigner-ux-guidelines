@@ -171,7 +171,6 @@ Usage:
 Examples:
 - Xpub privacy leak warning
 - Unsupported script type
-- Discard seed
 
 Styling:
 - Color: WARNING_COLOR (#FFD60A)
@@ -190,6 +189,7 @@ Usage:
 Examples:
 - Seed airgap warning
 - SeedQR airgap warning
+- Discard seed or passphrase
 
 Styling:
 - Color: DIRE_WARNING_COLOR (#FF5700)
